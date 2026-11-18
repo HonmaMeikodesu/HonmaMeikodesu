@@ -10,6 +10,6 @@
 <p align="center"><strong>Web · AI · Creative tools</strong></p>
 
 <p align="center" lang="ja">
-  <img src="./assets/language-progress.png" width="340" alt="言語の習熟度：TypeScript は得意、Python は基礎、Rust と Go は勉強中。" />
+  <img src="./assets/menma-languages.png" width="340" alt="青い鉛筆を持っためんまが紹介する言語の習熟度：TypeScript は得意、Python は基礎、Rust と Go は勉強中。" />
   <img src="./assets/menma-workspace.png" width="340" alt="めんまの端末。iTerm2 の tmux セッションで Vim を開き、隣のペインでは uname -s が Linux と表示されている。" />
 </p>
