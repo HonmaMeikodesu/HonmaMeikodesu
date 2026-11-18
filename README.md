@@ -10,12 +10,6 @@
 <p align="center"><strong>Web · AI · Creative tools</strong></p>
 
 <p align="center" lang="ja">
-  <strong>TypeScript</strong> が得意。Python は基礎を少し。<br />
-  Rust と Go は勉強中。
-</p>
-
-<p align="center" lang="ja">
-  <img src="./assets/menma-terminal.png" width="180" alt="ノートパソコンの分割画面を見ながら、キーボードを打つめんま" /><br />
-  tmux で画面を分けて、Vim でコードを書く。<br />
-  <code>Linux</code> <code>Vim</code> <code>iTerm2</code> <code>tmux</code>
+  <img src="./assets/language-progress.png" width="340" alt="言語の習熟度：TypeScript は得意、Python は基礎、Rust と Go は勉強中。" />
+  <img src="./assets/menma-workspace.png" width="340" alt="めんまの端末。iTerm2 の tmux セッションで Vim を開き、隣のペインでは uname -s が Linux と表示されている。" />
 </p>
