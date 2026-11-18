@@ -10,16 +10,12 @@
 <p align="center"><strong>Web · AI · Creative tools</strong></p>
 
 <p align="center" lang="ja">
-  <img src="./assets/secret-base-notebook.png" width="72" height="72" alt="" /><br />
-  <strong>秘密基地の開発ノート</strong>
-</p>
-
-<p align="center" lang="ja">
   <strong>TypeScript</strong> が得意。Python は基礎を少し。<br />
   Rust と Go は勉強中。
 </p>
 
 <p align="center" lang="ja">
-  <sub>いつもの開発環境</sub><br />
-  <code>Linux</code> <code>Vim</code> <code>Kubernetes</code> <code>PostgreSQL</code>
+  <img src="./assets/menma-terminal.png" width="180" alt="ノートパソコンの分割画面を見ながら、キーボードを打つめんま" /><br />
+  tmux で画面を分けて、Vim でコードを書く。<br />
+  <code>Linux</code> <code>Vim</code> <code>iTerm2</code> <code>tmux</code>
 </p>
